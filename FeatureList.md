@@ -41,8 +41,9 @@
 
 ## Planned Features
 * Nest
-    * Instanced Software Managment (i.e. Minecraft Server)
+    * Uninstall software
     * Unregister / Remove
+    * Instanced Software Managment (i.e. Minecraft Server)
     * Freeze
     * Backup
     * Restore
