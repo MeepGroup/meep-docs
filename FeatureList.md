@@ -14,6 +14,8 @@
     * Usage Viewing
     * Software Installation
     * Software Commands Management
+        * TODO: Make sure command exists in yolk before 
+        executing to prevent hijacking
     * Add Role
     * Revoke Role
     * View All Nests
